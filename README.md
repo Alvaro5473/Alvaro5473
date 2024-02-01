@@ -12,3 +12,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-rivas-%C3%A1lvarez-625004273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
